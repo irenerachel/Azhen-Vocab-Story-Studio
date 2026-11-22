@@ -1,0 +1,158 @@
+{
+ "voice": {
+  "model": "speech-2.8-hd",
+  "voiceId": "English_Graceful_Lady",
+  "note": "LibTV MiniMax 语音合成，系统音色 Graceful Lady"
+ },
+ "lines": [
+  {
+   "id": "n1",
+   "scene": 1,
+   "en": "Once upon a time, a girl named Cinderella swept the [cinders] all day long.",
+   "zh": "从前，有个叫灰姑娘的女孩，整天都在打扫炉灰。",
+   "dur": 6.91,
+   "words": {
+    "cinders": 4.8
+   }
+  },
+  {
+   "id": "n2",
+   "scene": 2,
+   "en": "Her [stepmother] dumped the [laundry] on her, then left for the royal [ball].",
+   "zh": "继母把一大堆脏衣服丢给她，就去参加王宫舞会了。",
+   "dur": 5.07,
+   "words": {
+    "stepmother": 0.26,
+    "laundry": 1.68,
+    "ball": 4.32
+   }
+  },
+  {
+   "id": "n3",
+   "scene": 3,
+   "en": "Poof! Her [fairy godmother] appeared. But her magic [wand] turned the broom into a chicken!",
+   "zh": "“噗”的一声，仙女教母出现了。可她的魔杖一挥，扫帚竟变成了一只鸡！",
+   "dur": 7.85,
+   "words": {
+    "fairy godmother": 1.22,
+    "wand": 4.6
+   }
+  },
+  {
+   "id": "n4",
+   "scene": 4,
+   "en": "Let's try again! The [pumpkin] became a golden [carriage], and her rags became a lovely [gown].",
+   "zh": "再来一次！南瓜变成了金色马车，破衣裳变成了漂亮的礼服。",
+   "dur": 7.42,
+   "words": {
+    "pumpkin": 2.16,
+    "carriage": 3.78,
+    "gown": 6.64
+   }
+  },
+  {
+   "id": "n5",
+   "scene": 5,
+   "en": "At the ball, the prince was [speechless]. They danced and danced, and the sisters were [furious].",
+   "zh": "舞会上，王子看得说不出话来。他们跳了一支又一支舞，姐姐们气坏了。",
+   "dur": 9.08,
+   "words": {
+    "speechless": 2.22,
+    "furious": 7.68
+   }
+  },
+  {
+   "id": "n6",
+   "scene": 6,
+   "en": "But at [midnight], the clock struck twelve. She ran away and lost a glass [slipper].",
+   "zh": "可是到了午夜，钟声敲响十二下。她慌忙跑开，掉了一只玻璃鞋。",
+   "dur": 6.27,
+   "words": {
+    "midnight": 0.34,
+    "slipper": 5.5
+   }
+  },
+  {
+   "id": "n7",
+   "scene": 7,
+   "en": "The prince searched every house. A stepsister tried to [squeeze] her foot in. No luck!",
+   "zh": "王子挨家挨户地找。一个姐姐拼命把脚往鞋里塞，可就是穿不进去！",
+   "dur": 6.43,
+   "words": {
+    "squeeze": 4.16
+   }
+  },
+  {
+   "id": "n8",
+   "scene": 8,
+   "en": "Then Cinderella tried it on. It was a [perfect fit]! The end.",
+   "zh": "灰姑娘一试，正好合脚！故事讲完啦。",
+   "dur": 6.22,
+   "words": {
+    "perfect fit": 3.64
+   }
+  }
+ ],
+ "vocab": {
+  "cinders": [
+   "n.",
+   "炉灰，灰烬"
+  ],
+  "stepmother": [
+   "n.",
+   "继母"
+  ],
+  "laundry": [
+   "n.",
+   "待洗的衣物"
+  ],
+  "ball": [
+   "n.",
+   "舞会"
+  ],
+  "fairy godmother": [
+   "n.",
+   "仙女教母"
+  ],
+  "wand": [
+   "n.",
+   "魔杖"
+  ],
+  "pumpkin": [
+   "n.",
+   "南瓜"
+  ],
+  "carriage": [
+   "n.",
+   "马车"
+  ],
+  "gown": [
+   "n.",
+   "礼服长裙"
+  ],
+  "speechless": [
+   "adj.",
+   "（惊得）说不出话的"
+  ],
+  "furious": [
+   "adj.",
+   "非常生气的"
+  ],
+  "midnight": [
+   "n.",
+   "午夜，半夜十二点"
+  ],
+  "slipper": [
+   "n.",
+   "（舞会穿的）轻便鞋"
+  ],
+  "squeeze": [
+   "v.",
+   "挤，硬塞"
+  ],
+  "perfect fit": [
+   "phr.",
+   "完全合脚，正合适"
+  ]
+ }
+}

@@ -1,0 +1,235 @@
+{
+ "slug": "cinderella",
+ "title": "灰姑娘的玻璃鞋",
+ "enTitle": "Cinderella and the Glass Slipper",
+ "seconds": 67,
+ "footer": "动画、英文配音和题目都按这个故事原创制作；故事源自佩罗童话《灰姑娘》。中文字体：寒蝉圆黑体（SIL OFL 1.1）。",
+ "perfect": "刚刚好！",
+ "lines": {
+  "n1": [
+   "Once upon a time, a girl named Cinderella swept the cinders all day long.",
+   "从前，有个叫灰姑娘的女孩，整天都在打扫炉灰。"
+  ],
+  "n2": [
+   "Her stepmother dumped the laundry on her, then left for the royal ball.",
+   "继母把一大堆脏衣服丢给她，就去参加王宫舞会了。"
+  ],
+  "n3": [
+   "Poof! Her fairy godmother appeared. But her magic wand turned the broom into a chicken!",
+   "“噗”的一声，仙女教母出现了。可她的魔杖一挥，扫帚竟变成了一只鸡！"
+  ],
+  "n4": [
+   "Let's try again! The pumpkin became a golden carriage, and her rags became a lovely gown.",
+   "再来一次！南瓜变成了金色马车，破衣裳变成了漂亮的礼服。"
+  ],
+  "n5": [
+   "At the ball, the prince was speechless. They danced and danced, and the sisters were furious.",
+   "舞会上，王子看得说不出话来。他们跳了一支又一支舞，姐姐们气坏了。"
+  ],
+  "n6": [
+   "But at midnight, the clock struck twelve. She ran away and lost a glass slipper.",
+   "可是到了午夜，钟声敲响十二下。她慌忙跑开，掉了一只玻璃鞋。"
+  ],
+  "n7": [
+   "The prince searched every house. A stepsister tried to squeeze her foot in. No luck!",
+   "王子挨家挨户地找。一个姐姐拼命把脚往鞋里塞，可就是穿不进去！"
+  ],
+  "n8": [
+   "Then Cinderella tried it on. It was a perfect fit! The end.",
+   "灰姑娘一试，正好合脚！故事讲完啦。"
+  ]
+ },
+ "words": [
+  {
+   "w": "cinders",
+   "pos": "n.",
+   "m": "炉灰，灰烬",
+   "line": "n1",
+   "type": "mean"
+  },
+  {
+   "w": "stepmother",
+   "pos": "n.",
+   "m": "继母",
+   "line": "n2",
+   "type": "fill"
+  },
+  {
+   "w": "laundry",
+   "pos": "n.",
+   "m": "待洗的衣物",
+   "line": "n2",
+   "type": "pic"
+  },
+  {
+   "w": "ball",
+   "pos": "n.",
+   "m": "舞会",
+   "line": "n2",
+   "type": "mean"
+  },
+  {
+   "w": "fairy godmother",
+   "pos": "n.",
+   "m": "仙女教母",
+   "line": "n3",
+   "type": "fill"
+  },
+  {
+   "w": "wand",
+   "pos": "n.",
+   "m": "魔杖",
+   "line": "n3",
+   "type": "mean"
+  },
+  {
+   "w": "pumpkin",
+   "pos": "n.",
+   "m": "南瓜",
+   "line": "n4",
+   "type": "pic"
+  },
+  {
+   "w": "carriage",
+   "pos": "n.",
+   "m": "马车",
+   "line": "n4",
+   "type": "pic"
+  },
+  {
+   "w": "gown",
+   "pos": "n.",
+   "m": "礼服长裙",
+   "line": "n4",
+   "type": "pic"
+  },
+  {
+   "w": "speechless",
+   "pos": "adj.",
+   "m": "（惊得）说不出话的",
+   "line": "n5",
+   "type": "pic"
+  },
+  {
+   "w": "furious",
+   "pos": "adj.",
+   "m": "非常生气的",
+   "line": "n5",
+   "type": "pic"
+  },
+  {
+   "w": "midnight",
+   "pos": "n.",
+   "m": "午夜，半夜十二点",
+   "line": "n6",
+   "type": "mean"
+  },
+  {
+   "w": "slipper",
+   "pos": "n.",
+   "m": "（舞会穿的）轻便鞋",
+   "line": "n6",
+   "type": "pic"
+  },
+  {
+   "w": "squeeze",
+   "pos": "v.",
+   "m": "挤，硬塞",
+   "line": "n7",
+   "type": "pic"
+  },
+  {
+   "w": "perfect fit",
+   "pos": "phr.",
+   "m": "完全合脚，正合适",
+   "line": "n8",
+   "type": "fill"
+  }
+ ],
+ "picHint": {
+  "laundry": "她怀里抱的这一大堆是？",
+  "pumpkin": "仙女教母要变的这个东西是？",
+  "carriage": "南瓜变成了什么？",
+  "gown": "她身上穿的这条裙子叫？",
+  "speechless": "王子看呆了，他现在是？",
+  "furious": "姐姐现在的心情是？",
+  "slipper": "她在台阶上掉了一只什么？",
+  "squeeze": "姐姐正在拼命做什么？"
+ },
+ "constellation": {
+  "name": "玻璃鞋座",
+  "aspect": 1.0963904214168587,
+  "points": [
+   [
+    0.0169,
+    0.0513
+   ],
+   [
+    0.1924,
+    -0.0155
+   ],
+   [
+    0.3575,
+    0.1918
+   ],
+   [
+    0.5035,
+    0.4108
+   ],
+   [
+    0.6925,
+    0.5869
+   ],
+   [
+    0.8915,
+    0.6859
+   ],
+   [
+    0.9994,
+    0.8766
+   ],
+   [
+    0.7487,
+    0.9157
+   ],
+   [
+    0.4921,
+    0.883
+   ],
+   [
+    0.3399,
+    0.6898
+   ],
+   [
+    0.2139,
+    0.5015
+   ],
+   [
+    0.1514,
+    0.6627
+   ],
+   [
+    0.0954,
+    0.8026
+   ],
+   [
+    0.0687,
+    0.5334
+   ],
+   [
+    -0.0004,
+    0.3079
+   ]
+  ]
+ },
+ "picSrc": {
+  "laundry": "C04",
+  "pumpkin": "C09",
+  "carriage": "C10",
+  "gown": "C11",
+  "speechless": "C12",
+  "furious": "C14a",
+  "slipper": "C16",
+  "squeeze": "C18"
+ }
+}
