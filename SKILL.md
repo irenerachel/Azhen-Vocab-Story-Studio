@@ -22,7 +22,7 @@ description: 英语生词故事工作室：用户给一份英语单词表或英�
 | `references/production-notes.md` | 制作要点：写故事文件的套路、比例、遮挡、字幕区、等旁白、渲染、字体授权、发布。**写动画前读** |
 | `references/prompts.md` | LibTV 出图提示词模板、被内容过滤时的改法。**出图前读** |
 
-Python 脚本统一用 `PY=~/.venvs/vocab-story/bin/python` 运行。渲染器、抽帧、成片检查和音效库在 code-to-video-studio skill 里（下文写作 `$CTV`），先读它的质量底线。
+安装步骤与依赖见仓库根目录的 README.md。Python 脚本使用 `PY=~/.venvs/vocab-story/bin/python`。以下命令中的 `$CTV` 是渲染器目录，可运行 `zsh <本 skill>/scripts/renderer_path.sh` 查询。仓库自带渲染、抽帧、成片检查工具和音效下载清单。
 
 ## 流程
 
